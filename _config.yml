@@ -1,7 +1,6 @@
 title: 수영 어서와♥️
 description: > # this means to ignore newlines until "baseurl:"
-데이트 특급 정보 공유 블로그💯
-
+데이트 특급 정보 공유 블로그♥️
 permalink: ':title/'
 baseurl: "/moonsueBlog" # the subpath of your site, e.g. /blog
 url: "https://moonsueBlog.github.io" # the base hostname & protocol for your site, e.g. http://example.com
