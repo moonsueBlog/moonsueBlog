@@ -75,7 +75,7 @@ tags: [seoul, subway] # add tag
 
 function fetchData() {
   // 실제 API 호출
-  fetch('http://swopenapi.seoul.go.kr/api/subway/{keyvalue}/json/realtimeStationArrival/1/5/%EB%AF%B8%EC%95%84%EC%82%AC%EA%B1%B0%EB%A6%AC')
+  fetch('http://swopenapi.seoul.go.kr/api/subway/66536375616d6f6f35396c796a4361/json/realtimeStationArrival/1/5/%EB%AF%B8%EC%95%84%EC%82%AC%EA%B1%B0%EB%A6%AC')
     .then(response => response.json())
     .then(data => {
       // API에서 받은 데이터로 DOM 업데이트
